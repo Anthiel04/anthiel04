@@ -3,9 +3,14 @@
 - 🔭 I’m currently working on a TelegramBot
 - 🌱 I’m currently learning Prometheus
 - 💬 Ask me about Nichijou =D
-- 📫 How to reach me: t.me/reinstalador
+- 📫 How to reach me: Hit Telegram! @reinstalador
 - 😄 Pronouns: Heehe
 - ⚡ Fun fact: Open a PR and insert!
+
+<a href="https://linkedin.com/in/YOUR_USER"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/anthiel04"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://instagram.com/YOUR_USER"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://t.me/reinstalador"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
 <!-- GitHub Profile README – badge style -->
 <h2 align="left">🔧 Languages</h2>
@@ -28,6 +33,7 @@
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" alt="Fastify"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongodb&logoColor=white" alt="Mongoose"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -42,15 +48,9 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios"/>
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=flat&logo=reactquery&logoColor=white" alt="React Query"/>
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" alt="Zod"/>
+  <img src="https://img.shields.io/badge/Yup-3E67B1?style=flat&logo=yup&logoColor=white" alt="Yup"/>
   <img src="https://img.shields.io/badge/Recharts-22D8F5?style=flat&logo=recharts&logoColor=black" alt="Recharts"/>
   <img src="https://img.shields.io/badge/Sharp-99CC00?style=flat&logo=sharp&logoColor=black" alt="Sharp"/>
-</p>
-
-<h2 align="left">🗄️ Databases</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/SQLite-3584e4?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
 <h2 align="left">🧰 Dev Tools & Editors</h2>
@@ -64,11 +64,16 @@
   <img src="https://img.shields.io/badge/Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white" alt="Alacritty"/>
 </p>
 
-<h2 align="left">🐳 DevOps & Deploy</h2>
+<h2 align="left">🐳 DevOps & Deploy, Databases🗄️</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Coolify-FF5700?style=flat&logo=coolify&logoColor=white" alt="Coolify"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-3584e4?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
 <h2 align="left">🔌 API & Testing</h2>
@@ -81,7 +86,7 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/>
 </p>
 
-<h2 align="left">📦 Package Managers</h2>
+<h2 align="left">📦 Package Managers & OS 🖥️</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" alt="Yarn"/>
@@ -89,8 +94,6 @@
   <img src="https://img.shields.io/badge/Pip-3775A9?style=flat&logo=pypi&logoColor=white" alt="pip"/>
    <img src="https://img.shields.io/badge/npx-CB3837?style=flat&logo=npm&logoColor=white" alt="npx"/>
 </p>
-
-<h2 align="left">🖥️ OS</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=pop-os&logoColor=white" alt="Pop!_OS"/>
@@ -100,6 +103,7 @@
   <img src="https://img.shields.io/badge/elementary%20OS-64BAFF?style=flat&logo=elementary&logoColor=white" alt="elementary OS"/>
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white" alt="Linux Mint"/>
 </p>
+
 <!--
 **Anthiel04/anthiel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
