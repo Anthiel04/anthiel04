@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there name is Will 👋
 
 - 🔭 I’m currently working on a TelegramBot
 - 🌱 I’m currently learning Prometheus
 - 💬 Ask me about Nichijou =D
-- 📫 How to reach me: moreirahernandezwilliam@gmail.com
+- 📫 How to reach me: t.me/reinstalador
 - 😄 Pronouns: Heehe
 - ⚡ Fun fact: Open a PR and insert!
 
