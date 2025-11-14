@@ -1,4 +1,4 @@
-## Hi there name is Will 👋
+## Hi there, name is Will 👋
 
 - 🔭 I’m currently working on a TelegramBot
 - 🌱 I’m currently learning Prometheus
@@ -13,7 +13,7 @@
 <a href="https://t.me/reinstalador"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
 
 <!-- GitHub Profile README – badge style -->
-<h2 align="left">🔧 Languages</h2>
+<h2 align="left">🔧 Programming Languages</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
@@ -103,6 +103,18 @@
   <img src="https://img.shields.io/badge/elementary%20OS-64BAFF?style=flat&logo=elementary&logoColor=white" alt="elementary OS"/>
   <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white" alt="Linux Mint"/>
 </p>
+
+<h2> Languages </h2>
+<ul align="left">
+  <li>
+    English (C1)
+  </li>
+  <li>
+    Spanish (Native)
+  </li>
+</ul>
+
+# Proficiency is at the portfolio
 
 <!--
 **Anthiel04/anthiel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
