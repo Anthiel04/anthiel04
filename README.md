@@ -84,6 +84,11 @@
   <img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white" alt="DBeaver"/>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" alt="Vitest"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Mixpanel-5856D6?style=flat&logo=mixpanel&logoColor=white" alt="Mixpanel"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" alt="Sentry"/>
+  <img src="https://img.shields.io/badge/Hotjar-FF5151?style=flat&logo=hotjar&logoColor=white" alt="Hotjar"/>
 </p>
 
 <h2 align="left">📦 Package Managers & OS 🖥️</h2>
@@ -113,8 +118,6 @@
     Spanish (Native)
   </li>
 </ul>
-
-# Proficiency is at the portfolio
 
 <!--
 **Anthiel04/anthiel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
