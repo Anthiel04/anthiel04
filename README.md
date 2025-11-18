@@ -74,6 +74,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Coolify-FF5700?style=flat&logo=coolify&logoColor=white" alt="Coolify"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Canine.sh-64BAFF?style=flat&logo=canine-sh&logoColor=white" alt="Canine.sh"/>
   <img src="https://img.shields.io/badge/n8n-FF3333?style=flat&logo=n8n&logoColor=white" alt="N8N"/>
 </p>
 <p align="left">
