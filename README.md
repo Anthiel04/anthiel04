@@ -55,13 +55,18 @@
 
 <h2 align="left">🧰 Dev Tools & Editors</h2>
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white" alt="WebStorm"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Dev%20C++-5C8DBC?style=flat&logo=c%2B%2B&logoColor=white" alt="Dev C++"/>
-  <img src="https://img.shields.io/badge/Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white" alt="Alacritty"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white " alt="VS Code"/>
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white " alt="WebStorm"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white " alt="PyCharm"/>
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white " alt="NetBeans"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white " alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Dev%20C++-5C8DBC?style=flat&logo=c%2B%2B&logoColor=white " alt="Dev C++"/>
+  <img src="https://img.shields.io/badge/Alacritty-F46D01?style=flat&logo=alacritty&logoColor=white " alt="Alacritty"/>
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublime-text&logoColor=white " alt="Sublime Text"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white " alt="Vim"/>
+  <img src="https://img.shields.io/badge/Emacs-7F5AB6?style=flat&logo=gnu-emacs&logoColor=white " alt="Emacs"/>
+  <img src="https://img.shields.io/badge/GNU%20nano-3670A0?style=flat&logo=gnu&logoColor=white " alt="nano"/>
+<img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat&logo=notepad%2B%2B&logoColor=black " alt="Notepad++"/>
 </p>
 
 <h2 align="left">🐳 DevOps & Deploy, Databases🗄️</h2>
@@ -69,6 +74,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Coolify-FF5700?style=flat&logo=coolify&logoColor=white" alt="Coolify"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/n8n-FF3333?style=flat&logo=n8n&logoColor=white" alt="SQLite"/>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -97,7 +103,6 @@
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" alt="Yarn"/>
   <img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white" alt="pnpm"/>
   <img src="https://img.shields.io/badge/Pip-3775A9?style=flat&logo=pypi&logoColor=white" alt="pip"/>
-   <img src="https://img.shields.io/badge/npx-CB3837?style=flat&logo=npm&logoColor=white" alt="npx"/>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
