@@ -74,12 +74,13 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Coolify-FF5700?style=flat&logo=coolify&logoColor=white" alt="Coolify"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/n8n-FF3333?style=flat&logo=n8n&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/n8n-FF3333?style=flat&logo=n8n&logoColor=white" alt="N8N"/>
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQLite-3584e4?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Redis-AA3333?style=flat&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
 <h2 align="left">🔌 API & Testing</h2>
